@@ -1,1 +1,1 @@
-# Program Arduino menggerakkan-servo-dengan-Bluetooth
+# Program Arduino untuk menggerakkan servo dengan Bluetooth
